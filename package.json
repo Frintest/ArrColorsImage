@@ -1,14 +1,14 @@
 {
-  "name": "atom",
+  "name": "arr-colors-image",
   "version": "0.0.0",
-  "description": "test project",
+  "description": "",
   "private": true,
   "keywords": [],
   "author": "<dimaruzaev2@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Frintest/Atom.git"
+    "url": "git+https://github.com/Frintest/ArrColorsImage.git"
   },
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
